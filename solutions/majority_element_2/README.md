@@ -12,5 +12,6 @@ Making a dict in which the keys is the element of the array mapped to the number
 
 #### Result
 
-> Runtime: **104 ms**, faster than **29.27%** of Python3 online submissions for **Majority Element II**.
-> Memory Usage: **17.7 MB**, less than **99.39%** of Python3 online submissions for **Majority Element II**.
+Runtime: **104 ms**, faster than **29.27%** of Python3 online submissions for **Majority Element II**.
+
+Memory Usage: **17.7 MB**, less than **99.39%** of Python3 online submissions for **Majority Element II**.
