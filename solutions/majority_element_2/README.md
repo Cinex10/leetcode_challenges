@@ -1,16 +1,16 @@
-### Majority Element II
+# Majority Element II
 
-#### Problem Description
+## Problem Description
 
 Given an integer array of size `n`, find all elements that appear more than `⌊ n/3 ⌋` times.
 
-#### Approach
+## Approach
 
 Making a dict in which the keys is the element of the array mapped to the number of occurences of that number as value (initially 0)
 
-#### Code [Here](./main.py)
+## Code [Here](./main.py)
 
-#### Result
+## Result
 
 Runtime: **104 ms**, faster than **29.27%** of Python3 online submissions for **Majority Element II**.
 
